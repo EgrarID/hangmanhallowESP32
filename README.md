@@ -1,0 +1,1 @@
+A hangman halloween program using Adafruit ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM - STEMMA QT , Adafruit Audio FX Mini Sound Board - WAV/OGG Trigger - 2MB Flash, 8-Channel PWM or Servo FeatherWing and 2 × MG996R high‑torque digital servos
